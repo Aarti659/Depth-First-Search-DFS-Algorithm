@@ -1,6 +1,7 @@
 #include<iostream.h>
 
 #include <list.h>
+
 using namespace std;
 
 class Gra 
