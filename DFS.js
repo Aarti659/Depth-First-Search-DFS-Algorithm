@@ -1,4 +1,3 @@
-
 const dfs = function (Start, Target) {
     console.log("Visiting Node " + Start.value);
     if (Start.value === Target) {
